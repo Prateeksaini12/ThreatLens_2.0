@@ -10,7 +10,7 @@ It scans URLs in real time for malware, phishing, and unsafe content — and eve
 
 ---
 
-## ✨ Features
+# ✨ Features
 - Real-time malware & phishing detection  
 - Threat type selection – scan for specific risks  
 - **Exclusive Sandbox Mode** – safely preview unsafe sites  
