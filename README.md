@@ -5,7 +5,7 @@ It scans URLs in real time for malware, phishing, and unsafe content — and eve
 
 ---
 
-## 📱 Try the App
+# 📱 Try the App
 👉 [Download APK](./app-release.apk) and install it on your mobile to test the app.  
 
 ---
