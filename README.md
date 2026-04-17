@@ -20,7 +20,7 @@ It scans URLs in real time for malware, phishing, and unsafe content-and even pr
 
 ---
 
-## 🔗 Cred
+## 🔗 Credi
 - Google Safe Browsing API – reliable threat detection  
 - Frontend: HTML, CSS, JavaScript by Chitransh Saxena and Prateek Saini 
 - UI Icons & Graphics: designed by Tanishq Meshram  
