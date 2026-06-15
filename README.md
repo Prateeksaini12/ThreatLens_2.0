@@ -1,7 +1,7 @@
 # 🚀 ThreatLens 2.0
 
 ThreatLens 2.0 lets you instantly check if a link is safe before clicking.
-It scans URLs in real time for malware, phishing, and unsafe content-and even provides a secure Sandbox Mode to preview risky  safely.
+It scans URLs in real time for malware, phishing, and unsafe content-and even provides a secure Sandbox Mode to preview risky s safely.
 
 ---
 
