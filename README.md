@@ -22,5 +22,5 @@ It scans URLs in real time for malware, phishing, and unsafe content-and even pr
 
 ## 🔗 Credits
 - Google Safe Browsing API – reliable threat detection  
-- Frontend: HTML, CSS, JavaScript by Chitransh Saxena and Prateek Saini 
+- Frontend: HTML, CSS, JavaScript by Chitransh Saxena and Prateek Sain 
 - UI Icons & Graphics: designed by Tanishq Meshram  
